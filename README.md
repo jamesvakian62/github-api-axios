@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Github-api-axios
+
+located at, https://heuristic-banach-4ac450.netlify.app/
+
+![Screen Shot 2022-01-04 at 12 23 48 PM](https://user-images.githubusercontent.com/95377031/148119606-f18d75b7-a21c-4079-aee0-3b61dfba1af5.png)
+
+
+![Screen Shot 2022-01-04 at 11 07 43 AM](https://user-images.githubusercontent.com/95377031/148119619-d74aa27b-07a2-4b08-abb3-5eb53c0005f9.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
